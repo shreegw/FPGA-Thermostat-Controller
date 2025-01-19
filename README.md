@@ -12,3 +12,6 @@ The project is a Air Conditioner control module utilizing a built-in temperature
 
  # System Diagram
  ![System Diagram For Thermostat Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller/blob/main/Picture1.jpg "a title")
+
+# Output 
+![AirCon](https://github.com/user-attachments/assets/e6e34b10-e386-4fd4-9bc6-51d664f0bb16)
